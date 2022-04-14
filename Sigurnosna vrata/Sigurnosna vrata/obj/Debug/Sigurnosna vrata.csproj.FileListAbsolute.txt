@@ -1,0 +1,10 @@
+C:\Users\Korisnik\Desktop\FOI\2. semestar\pi\labosi\6\Zadaci za vježbu-20220410\Sigurnosna vrata\Sigurnosna vrata\obj\Debug\Sigurnosna vrata.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\FOI\2. semestar\pi\labosi\6\Zadaci za vježbu-20220410\Sigurnosna vrata\Sigurnosna vrata\obj\Debug\Sigurnosna_vrata.otvaranjevrata.resources
+C:\Users\Korisnik\Desktop\FOI\2. semestar\pi\labosi\6\Zadaci za vježbu-20220410\Sigurnosna vrata\Sigurnosna vrata\obj\Debug\Sigurnosna_vrata.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\FOI\2. semestar\pi\labosi\6\Zadaci za vježbu-20220410\Sigurnosna vrata\Sigurnosna vrata\obj\Debug\Sigurnosna vrata.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\FOI\2. semestar\pi\labosi\6\Zadaci za vježbu-20220410\Sigurnosna vrata\Sigurnosna vrata\obj\Debug\Sigurnosna vrata.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\FOI\2. semestar\pi\labosi\6\Zadaci za vježbu-20220410\Sigurnosna vrata\Sigurnosna vrata\bin\Debug\Sigurnosna vrata.exe.config
+C:\Users\Korisnik\Desktop\FOI\2. semestar\pi\labosi\6\Zadaci za vježbu-20220410\Sigurnosna vrata\Sigurnosna vrata\bin\Debug\Sigurnosna vrata.exe
+C:\Users\Korisnik\Desktop\FOI\2. semestar\pi\labosi\6\Zadaci za vježbu-20220410\Sigurnosna vrata\Sigurnosna vrata\bin\Debug\Sigurnosna vrata.pdb
+C:\Users\Korisnik\Desktop\FOI\2. semestar\pi\labosi\6\Zadaci za vježbu-20220410\Sigurnosna vrata\Sigurnosna vrata\obj\Debug\Sigurnosna vrata.exe
+C:\Users\Korisnik\Desktop\FOI\2. semestar\pi\labosi\6\Zadaci za vježbu-20220410\Sigurnosna vrata\Sigurnosna vrata\obj\Debug\Sigurnosna vrata.pdb

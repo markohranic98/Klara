@@ -1,0 +1,13 @@
+C:\Users\Rudolf\Desktop\Vjezbe6\tecajnalista\tecajnalista\bin\Debug\tecajnalista.exe.config
+C:\Users\Rudolf\Desktop\Vjezbe6\tecajnalista\tecajnalista\bin\Debug\tecajnalista.exe
+C:\Users\Rudolf\Desktop\Vjezbe6\tecajnalista\tecajnalista\bin\Debug\tecajnalista.pdb
+C:\Users\Rudolf\Desktop\Vjezbe6\tecajnalista\tecajnalista\bin\Debug\BankLib.dll
+C:\Users\Rudolf\Desktop\Vjezbe6\tecajnalista\tecajnalista\obj\Debug\tecajnalista.csproj.AssemblyReference.cache
+C:\Users\Rudolf\Desktop\Vjezbe6\tecajnalista\tecajnalista\obj\Debug\tecajnalista.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rudolf\Desktop\Vjezbe6\tecajnalista\tecajnalista\obj\Debug\tecajnalista.Form1.resources
+C:\Users\Rudolf\Desktop\Vjezbe6\tecajnalista\tecajnalista\obj\Debug\tecajnalista.Properties.Resources.resources
+C:\Users\Rudolf\Desktop\Vjezbe6\tecajnalista\tecajnalista\obj\Debug\tecajnalista.csproj.GenerateResource.cache
+C:\Users\Rudolf\Desktop\Vjezbe6\tecajnalista\tecajnalista\obj\Debug\tecajnalista.csproj.CoreCompileInputs.cache
+C:\Users\Rudolf\Desktop\Vjezbe6\tecajnalista\tecajnalista\obj\Debug\tecajnalista.csproj.CopyComplete
+C:\Users\Rudolf\Desktop\Vjezbe6\tecajnalista\tecajnalista\obj\Debug\tecajnalista.exe
+C:\Users\Rudolf\Desktop\Vjezbe6\tecajnalista\tecajnalista\obj\Debug\tecajnalista.pdb

@@ -1,0 +1,10 @@
+C:\Users\Korisnik\source\repos\prijava\prijava\bin\Debug\prijava.exe.config
+C:\Users\Korisnik\source\repos\prijava\prijava\bin\Debug\prijava.exe
+C:\Users\Korisnik\source\repos\prijava\prijava\bin\Debug\prijava.pdb
+C:\Users\Korisnik\source\repos\prijava\prijava\obj\Debug\prijava.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\prijava\prijava\obj\Debug\prijava.Form1.resources
+C:\Users\Korisnik\source\repos\prijava\prijava\obj\Debug\prijava.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\prijava\prijava\obj\Debug\prijava.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\prijava\prijava\obj\Debug\prijava.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\prijava\prijava\obj\Debug\prijava.exe
+C:\Users\Korisnik\source\repos\prijava\prijava\obj\Debug\prijava.pdb

@@ -1,0 +1,12 @@
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\Popis zadataka\bin\Debug\Popis zadataka.exe.config
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\Popis zadataka\bin\Debug\Popis zadataka.exe
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\Popis zadataka\bin\Debug\Popis zadataka.pdb
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\Popis zadataka\obj\Debug\Popis zadataka.csproj.AssemblyReference.cache
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\Popis zadataka\obj\Debug\Popis zadataka.csproj.SuggestedBindingRedirects.cache
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\Popis zadataka\obj\Debug\Popis_zadataka.Form1.resources
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\Popis zadataka\obj\Debug\Popis_zadataka.NoviZadatak.resources
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\Popis zadataka\obj\Debug\Popis_zadataka.Properties.Resources.resources
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\Popis zadataka\obj\Debug\Popis zadataka.csproj.GenerateResource.cache
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\Popis zadataka\obj\Debug\Popis zadataka.csproj.CoreCompileInputs.cache
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\Popis zadataka\obj\Debug\Popis zadataka.exe
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\Popis zadataka\obj\Debug\Popis zadataka.pdb

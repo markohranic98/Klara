@@ -1,0 +1,10 @@
+C:\Users\Korisnik\Desktop\FOI\2. semestar\pi\labosi\6\Zadaci za vježbu-20220410\konverzija valuta\konverzija valuta\bin\Debug\konverzija valuta.exe.config
+C:\Users\Korisnik\Desktop\FOI\2. semestar\pi\labosi\6\Zadaci za vježbu-20220410\konverzija valuta\konverzija valuta\bin\Debug\konverzija valuta.exe
+C:\Users\Korisnik\Desktop\FOI\2. semestar\pi\labosi\6\Zadaci za vježbu-20220410\konverzija valuta\konverzija valuta\bin\Debug\konverzija valuta.pdb
+C:\Users\Korisnik\Desktop\FOI\2. semestar\pi\labosi\6\Zadaci za vježbu-20220410\konverzija valuta\konverzija valuta\obj\Debug\konverzija valuta.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\FOI\2. semestar\pi\labosi\6\Zadaci za vježbu-20220410\konverzija valuta\konverzija valuta\obj\Debug\konverzija_valuta.Form1.resources
+C:\Users\Korisnik\Desktop\FOI\2. semestar\pi\labosi\6\Zadaci za vježbu-20220410\konverzija valuta\konverzija valuta\obj\Debug\konverzija_valuta.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\FOI\2. semestar\pi\labosi\6\Zadaci za vježbu-20220410\konverzija valuta\konverzija valuta\obj\Debug\konverzija valuta.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\FOI\2. semestar\pi\labosi\6\Zadaci za vježbu-20220410\konverzija valuta\konverzija valuta\obj\Debug\konverzija valuta.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\FOI\2. semestar\pi\labosi\6\Zadaci za vježbu-20220410\konverzija valuta\konverzija valuta\obj\Debug\konverzija valuta.exe
+C:\Users\Korisnik\Desktop\FOI\2. semestar\pi\labosi\6\Zadaci za vježbu-20220410\konverzija valuta\konverzija valuta\obj\Debug\konverzija valuta.pdb

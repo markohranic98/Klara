@@ -1,0 +1,11 @@
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\Filmovi\bin\Debug\Filmovi.exe.config
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\Filmovi\bin\Debug\Filmovi.exe
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\Filmovi\bin\Debug\Filmovi.pdb
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\Filmovi\obj\Debug\Filmovi.csproj.AssemblyReference.cache
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\Filmovi\obj\Debug\Filmovi.csproj.SuggestedBindingRedirects.cache
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\Filmovi\obj\Debug\Filmovi.Form1.resources
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\Filmovi\obj\Debug\Filmovi.Properties.Resources.resources
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\Filmovi\obj\Debug\Filmovi.csproj.GenerateResource.cache
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\Filmovi\obj\Debug\Filmovi.csproj.CoreCompileInputs.cache
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\Filmovi\obj\Debug\Filmovi.exe
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\Filmovi\obj\Debug\Filmovi.pdb
